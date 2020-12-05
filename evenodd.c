@@ -1,0 +1,6 @@
+///Name:Priyanka P.Khandagale
+///Accept number from user and check whether number is even or odd.
+//////////////////////////////////////////////////////////////////////////////////
+
+#includ<stdio.h>
+
